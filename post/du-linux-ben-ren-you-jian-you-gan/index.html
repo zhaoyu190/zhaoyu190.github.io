@@ -1,0 +1,190 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>读linux本人邮件有感 | Gridea</title>
+<link rel="shortcut icon" href="https://zhaoyu190.github.io//favicon.ico?v=1733879253998">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://zhaoyu190.github.io//styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="读linux本人邮件有感 | Gridea - Atom Feed" href="https://zhaoyu190.github.io//atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="
+https://lore.kernel.org/all/2024101835-tiptop-blip-09ed@gregkh/
+
+起因
+有一位维护者更新了 维护名单 删去了很多俄罗斯开发者的权限
+具体可以看上述链接 -M 就是去掉权限
+l..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://zhaoyu190.github.io/">
+  <img class="avatar" src="https://zhaoyu190.github.io//images/avatar.png?v=1733879253998" alt="">
+  </a>
+  <h1 class="site-title">
+    Gridea
+  </h1>
+  <p class="site-description">
+    温故而知新
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              读linux本人邮件有感
+            </h2>
+            <div class="post-info">
+              <span>
+                2024-10-25
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content" v-pre>
+                <blockquote>
+<p>https://lore.kernel.org/all/2024101835-tiptop-blip-09ed@gregkh/</p>
+</blockquote>
+<h1 id="起因">起因</h1>
+<p>有一位维护者更新了 维护名单 删去了很多俄罗斯开发者的权限<br>
+具体可以看上述链接 -M 就是去掉权限</p>
+<h1 id="linux本人回复">linux本人回复</h1>
+<p>我之前只知道 linux的开发人还在世 没想到还会管理开源社区</p>
+<h1 id="小心思">小心思</h1>
+<p>不知道这些开源社区贡献者 都是为爱发电吗？<br>
+或者说都是各个区域公司大厂的技术高手 业余时间维护下linux内核</p>
+<h1 id="linux是c">linux是c？</h1>
+<p>不知道有没有机会 自己也提交一笔修改merge进去呀 哈哈 加油哇<br>
+2024年10月25日17:01:15</p>
+
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li><a href="#%E8%B5%B7%E5%9B%A0">起因</a></li>
+<li><a href="#linux%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%A4%8D">linux本人回复</a></li>
+<li><a href="#%E5%B0%8F%E5%BF%83%E6%80%9D">小心思</a></li>
+<li><a href="#linux%E6%98%AFc">linux是c？</a></li>
+</ul>
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://zhaoyu190.github.io/post/homeass-wen-du/">
+              <h3 class="post-title">
+                Homeass 温度
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://zhaoyu190.github.io//atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

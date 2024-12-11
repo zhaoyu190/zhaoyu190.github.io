@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhaoyu190.github.io/</id>
+    <title>Gridea</title>
+    <updated>2024-12-11T01:14:37.252Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhaoyu190.github.io/"/>
+    <link rel="self" href="https://zhaoyu190.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://zhaoyu190.github.io/images/avatar.png</logo>
+    <icon>https://zhaoyu190.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[知乎还是有点用的吗]]></title>
+        <id>https://zhaoyu190.github.io/post/zhi-hu-huan-shi-you-dian-yong-de-ma/</id>
+        <link href="https://zhaoyu190.github.io/post/zhi-hu-huan-shi-you-dian-yong-de-ma/">
+        </link>
+        <updated>2024-12-11T01:03:26.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<blockquote>
+<p>今早看到两篇内容 感觉值得记录一下</p>
+</blockquote>
+</blockquote>
+<h2 id="叙利亚为啥被推翻">叙利亚为啥被推翻</h2>
+<p>虽然说他们跟着欧美学先进知识 但是都学了点什么啊 女权？ 饭都吃不起 周围都是恐怖分子 你个这儿研究女性权利 作者认为还不如念经</p>
+<h2 id="美国媒体唱衰美国">美国媒体唱衰美国</h2>
+<p>美国四大主流报纸 纽约时报 华盛顿邮报 华尔街日报 洛杉矶时报<br>
+人家从创立之初就是批判 唱衰美国的 评论区认为 我们连 敢说真话的人都没有了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家庭 男人的衣柜]]></title>
+        <id>https://zhaoyu190.github.io/post/jia-ting-nan-ren-de-yi-ju/</id>
+        <link href="https://zhaoyu190.github.io/post/jia-ting-nan-ren-de-yi-ju/">
+        </link>
+        <updated>2024-10-27T02:58:55.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>最近生活有正反馈 好开心 动力满满 加油 多输出点东西 你看那csdn上面大家写的教程都挺专业的</p>
+</blockquote>
+<h1 id="home-assistant">home assistant</h1>
+<p>树莓派装的 那个啥冬瓜 真是大神啊 树莓派买的太值得</p>
+<h2 id="监控">监控</h2>
+<h2 id="服务器-定时执行python等">服务器 定时执行python等</h2>
+<h1 id="黑群晖-笔记本兼任">黑群晖 （笔记本兼任）</h1>
+<p>用独占一个系统吗？原理还是不明白 安装完成后 u盘是引导 不对 u盘就是系统盘 这个 笔记本的屏幕就荒废了<br>
+之后试试在windows的虚拟机上装一个？<br>
+尝试下什么值得买上面很火的黑群晖 注 球哥有一台 吃灰的 白群辉<br>
+这个好像是深圳公司 有机会去康康吗 跳？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读linux本人邮件有感]]></title>
+        <id>https://zhaoyu190.github.io/post/du-linux-ben-ren-you-jian-you-gan/</id>
+        <link href="https://zhaoyu190.github.io/post/du-linux-ben-ren-you-jian-you-gan/">
+        </link>
+        <updated>2024-10-25T08:54:39.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>https://lore.kernel.org/all/2024101835-tiptop-blip-09ed@gregkh/</p>
+</blockquote>
+<h1 id="起因">起因</h1>
+<p>有一位维护者更新了 维护名单 删去了很多俄罗斯开发者的权限<br>
+具体可以看上述链接 -M 就是去掉权限</p>
+<h1 id="linux本人回复">linux本人回复</h1>
+<p>我之前只知道 linux的开发人还在世 没想到还会管理开源社区</p>
+<h1 id="小心思">小心思</h1>
+<p>不知道这些开源社区贡献者 都是为爱发电吗？<br>
+或者说都是各个区域公司大厂的技术高手 业余时间维护下linux内核</p>
+<h1 id="linux是c">linux是c？</h1>
+<p>不知道有没有机会 自己也提交一笔修改merge进去呀 哈哈 加油哇<br>
+2024年10月25日17:01:15</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homeass 温度]]></title>
+        <id>https://zhaoyu190.github.io/post/homeass-wen-du/</id>
+        <link href="https://zhaoyu190.github.io/post/homeass-wen-du/">
+        </link>
+        <updated>2024-07-31T12:39:42.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://zhaoyu190.github.io//post-images/1722429665164.png" alt="" loading="lazy"></figure>
+<p>这样不行吧 怎么把图片放到我本地了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食贫道 何以当归]]></title>
+        <id>https://zhaoyu190.github.io/post/shi-pin-dao-he-yi-dang-gui/</id>
+        <link href="https://zhaoyu190.github.io/post/shi-pin-dao-he-yi-dang-gui/">
+        </link>
+        <updated>2024-07-31T12:12:18.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>一直在输入 输出点东西吧</p>
+</blockquote>
+<h1 id="性别多元化">性别多元化</h1>
+<p>饼叔认为 是执政的为了性少数群体的选票 才支持性少数<br>
+而性少数也只选当前的政府 生怕政策改变</p>
+<h1 id="美食">美食</h1>
+<p>感觉挺好的 不知道和这边的有什么区别 看着小吃街不错 我这肠胃能不能承受？</p>
+<h1 id="房价">房价</h1>
+<p>差不多</p>
+<h1 id="宗教">宗教</h1>
+<p>感觉挺搞的 大中午的看得我有点怕哈哈 饭都不香了</p>
+<blockquote>
+<p>这个博客 要怎么放图片呢<br>
+🤔🫡测试emoji</p>
+</blockquote>
+<h2 id="中东篇">中东篇</h2>
+<p>当地人对轰炸有些习以为常 因为从04年开始 就一直有导弹轰炸？</p>
+<h2 id="马来西亚篇">马来西亚篇</h2>
+<p>当地马来人 占据绝对优势 法律规定了偏袒他们<br>
+印度人 华人 也在不是很公平的 生存着 因为那是他们的祖国<br>
+感觉马来西亚是不是比缅甸 泰国啥的好很多？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始的刷题之路]]></title>
+        <id>https://zhaoyu190.github.io/post/cong-ling-kai-shi-de-shua-ti-zhi-lu/</id>
+        <link href="https://zhaoyu190.github.io/post/cong-ling-kai-shi-de-shua-ti-zhi-lu/">
+        </link>
+        <updated>2024-07-18T12:02:19.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="二叉树">二叉树</h1>
+<p><a href="https://leetcode.cn/problems/binary-tree-level-order-traversal/solutions/2361604/102-er-cha-shu-de-ceng-xu-bian-li-yan-du-dyf7/">二叉树广度优先遍历</a></p>
+<p>慢慢来吧 先看看 有哪些python中用到的 数据结构的函数</p>
+<h2 id="deque">deque</h2>
+<p>能在头直接插入删除的链表 和 list相比 在频繁头部插入删除时 时间复杂度低</p>
+<p>官方题解没有python的 两种都看下吧 python看着简单 但是不知道为什么这样结果是对的</p>
+<blockquote>
+<p>后续 深度遍历</p>
+</blockquote>
+<p>2024年8月5日20:28:49<br>
+不等于空 直接写就好了<br>
+<img src="https://zhaoyu190.github.io//post-images/1722860953711.png" alt="" loading="lazy"></p>
+<p>感觉像是照着题解默写了一遍 慢慢来吧 刷题康复训练<br>
+记得判空<br>
+<img src="https://zhaoyu190.github.io//post-images/1722861150698.png" alt="" loading="lazy"><br>
+这里为啥要把结构体放到一个列表里面？<br>
+感觉自己把这个markdown文件当成备忘录用了 毫无结构</p>
+<h1 id="lcr-124-推理二叉树">LCR 124. 推理二叉树</h1>
+<p><img src="https://zhaoyu190.github.io//post-images/1723120826182.png" alt="" loading="lazy"><br>
+这个递归调用 他只是把true和false放到了你调用的位置 并没有return 出来</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home assistant + motioneye +zerotier 笔记本远程摄像头]]></title>
+        <id>https://zhaoyu190.github.io/post/ce-shi/</id>
+        <link href="https://zhaoyu190.github.io/post/ce-shi/">
+        </link>
+        <updated>2024-07-16T06:02:24.000Z</updated>
+        <content type="html"><![CDATA[<p>顺便学习下 markdown<br>
+标题所用的井号 后必须空格 再接内容</p>
+<h1 id="代码部分">代码部分</h1>
+<pre><code class="language-python">    import cv2
+from flask import Flask, Response
+
+# 摄像头索引，通常为0表示默认摄像头
+camera_index = 0
+
+# 打开摄像头
+cap = cv2.VideoCapture(camera_index)
+
+# 获取摄像头的宽度和高度
+width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+
+# 创建Flask应用程序
+app = Flask(__name__)
+
+# 生成MJPEG流的生成器函数
+def generate_stream():
+    while True:
+        ret, frame = cap.read()
+        if not ret:
+            break
+
+        # 将帧转换为MJPEG流
+        ret, jpeg = cv2.imencode('.jpg', frame)
+        frame_data = jpeg.tobytes()
+        yield (b'--frame\r\n'
+               b'Content-Type: image/jpeg\r\n\r\n' + frame_data + b'\r\n\r\n')
+
+# 主页路由
+@app.route('/')
+def index():
+    return &quot;Camera Stream Server&quot;
+# MJPEG流路由
+@app.route('/stream.mjpg')
+def stream():
+    return Response(generate_stream(),
+                    mimetype='multipart/x-mixed-replace; boundary=frame')
+
+if __name__ == '__main__':
+    # 运行Flask应用程序
+    app.run(host='0.0.0.0', port=5000, debug=True)
+
+# 释放摄像头
+cap.release()
+</code></pre>
+<h1 id="笔记本与服务器链接">笔记本与服务器链接</h1>
+<p>当运行上述代码后 如果一切顺利 http://127.0.0.1:5000/stream.mjpg打开这个网址 就会看到视频<br>
+这个代码是gpt回答的 后续值得认真学习下 他是把图片一张一张的推到流上 然后显示出来的吗 一直以为显示视频啥的会不会需要一些复杂的框架<br>
+这是我们只能在本地看到视频 如果想在不同网段使用 这时就需要内网穿透了</p>
+<h2 id="zerotier">zerotier</h2>
+<p>网上有很多关于内网穿透的方法 我这边选用了用起来还不错的zerotier 他不是公网ip 不是所有设备都能访问 不过我只有两台电脑 一个手机 都注册了就能互相访问了</p>
+<p>未完 <strong>待续</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://zhaoyu190.github.io/post/hello-gridea/</id>
+        <link href="https://zhaoyu190.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
